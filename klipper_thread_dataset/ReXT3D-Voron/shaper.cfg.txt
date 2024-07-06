@@ -1,0 +1,5 @@
+[input_shaper]
+shaper_freq_x: 62.8      # enclosure at ~50°C, print accelerations <= 11600
+shaper_type_x: mzv
+shaper_freq_y: 44.2      # enclosure at ~50°C, print accelerations <= 5800
+shaper_type_y: mzv

@@ -1,0 +1,5 @@
+[input_shaper]
+shaper_freq_x: 85.8
+shaper_type_x: ei
+shaper_freq_y: 29.0
+shaper_type_y: ei
