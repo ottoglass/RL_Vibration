@@ -16,8 +16,7 @@ RL_Vibration is a project that explores the use of Reinforcement Learning (RL) t
 
 ## Usage
 1. Clone the repository
-2. Install the required packages: `pip install -r requirements.txt`
-3. Open the Jupyter notebooks and run the experiments
+2. Run training_notebook.ipynb notebook to install the environment and run a training session
 
 ## License
 This project is licensed under the GPLv3 License.
